@@ -6,7 +6,8 @@
 
 A professional bilingual (Chinese/English) interview simulator for self-training, supporting real-time question addition/removal, standard answer display, and macOS system voice reading ("say" command), with persistent local storage and a user-friendly GUI.
 
-![Application Screenshot](screenshots/app_screenshot.png)
+![Application Screenshot]![Uploading 截屏2025-05-19 下午10.35.47.png…]()
+
 
 ## Features
 
