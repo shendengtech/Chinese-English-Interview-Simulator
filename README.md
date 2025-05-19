@@ -45,7 +45,7 @@ This is a GUI-based interview question simulator built with `tkinter`, designed 
 
 ## Example Screenshot
 
-![Screenshot](screenshot.png)
+<img width="639" alt="截屏2025-05-19 下午10 30 00" src="https://github.com/user-attachments/assets/fdeb1168-987e-4d72-b68c-da5053b35386" />
 
 ## Question Bank Format
 
