@@ -32,8 +32,7 @@ A professional bilingual (Chinese/English) interview simulator for self-training
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your_username/interview-simulator.git
-cd interview-simulator
+git clone https://github.com/shendengtech/Chinese-English-Interview-Simulator/blob/main/interview-simulator.py
 ```
 
 2. (Optional but recommended) Create and activate a Python virtual environment:
@@ -44,7 +43,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate (not recommended, 
 
 3. Run the application:
 ```bash
-python3 main.py
+python3 interview-simulator.py
 ```
 
 ## Usage
