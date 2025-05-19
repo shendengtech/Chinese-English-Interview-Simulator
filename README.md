@@ -26,8 +26,7 @@ This is a GUI-based interview question simulator built with `tkinter`, designed 
 
 1. **Download the source code**  
    ```
-   git clone https://github.com/your_username/interview-simulator.git
-   cd interview-simulator
+   git clone https://github.com/shendengtech/Chinese-English-Interview-Simulator.git
    ```
 
 2. **Run the program**  
