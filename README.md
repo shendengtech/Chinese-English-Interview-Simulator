@@ -32,9 +32,9 @@ This is a GUI-based interview question simulator built with `tkinter`, designed 
 
 2. **Run the program**  
    ```
-   python3 main.py
+   python3 interview-simulator.py
    ```
-   > `main.py` refers to the code file above. Please adjust the filename based on how you saved it.
+   > `interview-simulator.py` refers to the code file above. Please adjust the filename based on how you saved it.
 
 3. **Usage Instructions**  
    - By default, the program loads the `questions.json` question bank in the same directory. Sample questions will be generated on first use.
